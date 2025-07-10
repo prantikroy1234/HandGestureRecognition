@@ -4,16 +4,9 @@ A Crude model of hand gesture recognition using Mediapipe
 
 This project uses **MediaPipe** and **OpenCV** in Python to detect and recognize hand gestures from a live webcam feed in real-time. It classifies common gestures like `Fist`, `Thumbs Up`, `Peace`, and more based on hand landmark positions.
 
----
 
-## 📸 Demo
 
-https://user-images.githubusercontent.com/your-demo-url.gif  
-*Live detection of gestures through webcam using MediaPipe.*
-
----
-
-## 🧠 Features
+🧠 Features
 
 - Real-time hand tracking using **MediaPipe**
 - Landmark-based finger detection logic
@@ -35,8 +28,3 @@ https://user-images.githubusercontent.com/your-demo-url.gif
 - OpenCV
 - MediaPipe
 - NumPy
-
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
