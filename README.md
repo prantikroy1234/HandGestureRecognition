@@ -28,3 +28,7 @@ This project uses **MediaPipe** and **OpenCV** in Python to detect and recognize
 - OpenCV
 - MediaPipe
 - NumPy
+
+- DEMO IMAGES
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/8bd59145-5539-4a92-a321-03d352681fb1" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/aa5a19c2-8cc5-49ed-a40c-8e973b541b1b" />
